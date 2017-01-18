@@ -1,4 +1,5 @@
-<canvas data-processing-sources="sketch_170104a.pde"></canvas> //Flappy Code
+
+//Flappy Code
     bird b = new bird();
     pillar[] p = new pillar[3];
     boolean end=false;
@@ -106,6 +107,7 @@
      }
 
     }
+    <canvas data-processing-sources="sketch_170104a.pde"></canvas> 
     void reset(){
      end=true;
      score=0;
