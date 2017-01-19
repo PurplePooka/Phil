@@ -58,6 +58,7 @@
     void drawBird(){
       shape(bot, xPos, yPos, 50, 50);
       
+      <canvas data-processing-sources="sketch_170104a.pde"></canvas>
     }
     void jump(){
      ySpeed=-10; 
